@@ -17,7 +17,7 @@ Display the current user Data which is fetched from the API.
 - Clicked on "`Shuffle`" Button then it fetch any random user data from the api.
 
 ## **Deployed link and GitHub link of the Project :**
-- ### **Deployed Link :** [https://github.com/heet-kumar/FUDAPI_GT_1](https://github.com/)
+- ### **Deployed Link :** [https://heet-kumar.github.io/FUDAPI_GT_1/index.html](https://heet-kumar.github.io/FUDAPI_GT_1/index.html)
 - ### **GitHub Link :** [https://github.com/heet-kumar/FUDAPI_GT_1](https://github.com/heet-kumar/FUDAPI_GT_1)
 
 ## **SCREENSHOTS :**
